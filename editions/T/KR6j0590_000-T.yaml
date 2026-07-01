@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0590/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 六門陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1360.xml
+    old_id: T21n1360
+hash: sha256:514127b1fa18319e4dcd0482df6c63d8e2dc5c73420ec65772aeb2cb3c61b709
